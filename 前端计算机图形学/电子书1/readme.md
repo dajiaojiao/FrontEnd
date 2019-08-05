@@ -116,3 +116,7 @@ Perlin噪声（Perlin noise）指由Ken Perlin发明的自然噪声生成算法[
 图形学这本经典的计算机图形学的第二版在很大程度上可以说是一次重写。该书对于学生、程序员和计算机图形学专业人员有特别的价值。新增加的部分主要包括图形用户界面、椭圆、图像压缩和线条反走样算法。裁剪算法除经典的Cohen-Sutherland、 中点二分、Cyrus-Beck、Sutherland-Hodgman算法外还增加了Liang-Barsky、Nicholl-Lee-Nicholl算法。可见面算法这一章在经典算法之外增加了Appel、晕线、A-buffer、二叉树划分(BSP)、八叉树消隐算法和marching cube算法。原来的可见面光线跟踪算法也有很大扩充。绘制一章现在的内容包括基于物理的光照明模型、透明材料、阴影和纹理以及锥光线跟踪、束光线跟踪、笔束光线跟踪和随机光线跟踪等。这个版本还详细介绍了辐射度的基本知识并增加了均匀颜色空间、g矫正、彩色图像的量化和印刷介质上的颜色再现等内容，不过它也保留了老版本中许多精雕细琢的例子并作了相应的补充。
 
 [链接](https://github.com/xuanhun/FrontEnd/blob/master/%E5%89%8D%E7%AB%AF%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/%E7%94%B5%E5%AD%90%E4%B9%A61/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E7%9A%84%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80%E7%AC%AC%E4%BA%8C%E7%89%88.pdf)
+
+## 可视化
+单独开辟了可视化目录
+[链接](https://github.com/xuanhun/FrontEnd/tree/master/%E5%89%8D%E7%AB%AF%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/%E7%94%B5%E5%AD%90%E4%B9%A61/%E5%8F%AF%E8%A7%86%E5%8C%96)
