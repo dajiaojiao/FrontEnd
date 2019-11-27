@@ -78,6 +78,12 @@ Three.js 游戏开发
 
 [用余生学习光线追踪](https://github.com/xuanhun/FrontEnd/blob/master/%E5%89%8D%E7%AB%AF%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/%E7%94%B5%E5%AD%90%E4%B9%A61/Ray%20Tracing%20The%20Rest%20of%20Your%20Life.pdf)
 
+[光线追踪讲义](https://github.com/xuanhun/FrontEnd/blob/master/%E5%89%8D%E7%AB%AF%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/%E7%94%B5%E5%AD%90%E4%B9%A61/14-ray.pdf)
+
+[光线追踪讲义](https://github.com/xuanhun/FrontEnd/blob/master/%E5%89%8D%E7%AB%AF%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/%E7%94%B5%E5%AD%90%E4%B9%A61/basic_algo.pdf)
+
+[光线追踪讲义](https://github.com/xuanhun/FrontEnd/blob/master/%E5%89%8D%E7%AB%AF%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/%E7%94%B5%E5%AD%90%E4%B9%A61/basic_algo.pdf)
+
 ## ThreeJS.Essentials.PACKT
 
 ThreeJS 入门教程
